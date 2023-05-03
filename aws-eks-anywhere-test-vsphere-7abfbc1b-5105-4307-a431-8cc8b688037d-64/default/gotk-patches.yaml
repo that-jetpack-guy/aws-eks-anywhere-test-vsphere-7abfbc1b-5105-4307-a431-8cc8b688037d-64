@@ -19,7 +19,7 @@ spec:
   template:
     spec:
       containers:
-      - image: public.ecr.aws/l0g8r8j6/fluxcd/kustomize-controller:v0.26.3-eks-a-v0.0.0-dev-build.3503
+      - image: public.ecr.aws/l0g8r8j6/fluxcd/kustomize-controller:v0.26.3-eks-a-v0.0.0-dev-build.3504
         name: manager
 ---
 apiVersion: apps/v1
